@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mercari/gaurun/gaurun"
-	"github.com/mercari/gaurun/gcm"
+	"github.com/recruit-mp/gaurun/gaurun"
+	"github.com/recruit-mp/gaurun/gcm"
 )
 
 var (
