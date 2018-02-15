@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/mercari/gaurun/gcm"
+	"github.com/recruit-mp/gaurun/gcm"
 
 	"go.uber.org/zap"
 )
